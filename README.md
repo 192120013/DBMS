@@ -72,6 +72,5 @@
 ![image](https://user-images.githubusercontent.com/113514165/193745221-59e30574-3c46-48a2-99f0-e6b9cfff61fd.png)
 ![image](https://user-images.githubusercontent.com/113514165/193745260-e0182116-a7c1-4128-9f50-f77294581b8f.png)
 
-## EXPERIMENTN13
-![image](https://user-images.githubusercontent.com/112066326/194243452-2190d650-0870-4c03-9c79-7479635e3bc1.png)
+
 
