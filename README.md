@@ -96,6 +96,10 @@
 ## EXPERIMENT 20 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066326/194510083-5f76404f-dd2c-4722-8dc4-9526438434b9.png)
 
+## EXPERIMENT 21  OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194510428-bcfc4171-53b5-4ebc-832c-e3bbe02ef545.png)
+
+
 
 
 
