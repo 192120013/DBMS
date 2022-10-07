@@ -103,6 +103,8 @@
 
 ## EXPERIMENT 22 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066326/194512499-7266da55-0a95-4b93-a6b3-e9c251ada1ab.png)
+![image](https://user-images.githubusercontent.com/112066326/194512729-638260b1-c69a-4fcd-9b9b-a1334851bfa5.png)
+
 
 
 
