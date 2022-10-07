@@ -101,6 +101,10 @@
 ![image](https://user-images.githubusercontent.com/112066326/194510885-d08515c1-9a7e-4d9b-b6e1-949cde85ba40.png)
 ![image](https://user-images.githubusercontent.com/112066326/194511167-3f778ec5-f1fc-4759-8b0e-82b4c779440e.png)
 
+## EXPERIMENT 22 OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194512499-7266da55-0a95-4b93-a6b3-e9c251ada1ab.png)
+
+
 
 
 
