@@ -2,6 +2,8 @@
 ## EXPERIMENT 1 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066326/194579018-db5edf40-c53d-411d-8a38-c2b7603bc16f.png)
 ![image](https://user-images.githubusercontent.com/112066326/194579172-19c92131-6154-466f-8202-6255b78ac36b.png)
+![image](https://user-images.githubusercontent.com/112066326/194579426-7a8436a4-ec57-4167-92ab-6e3f95333978.png)
+
 
 
 
