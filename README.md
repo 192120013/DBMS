@@ -1,5 +1,7 @@
 # Data-Base-Management-System-CSA0525
 ## EXPERIMENT 1 OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194579018-db5edf40-c53d-411d-8a38-c2b7603bc16f.png)
+
 
 
 ## EXPERIMENT 2 OUTPUT
