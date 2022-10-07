@@ -50,6 +50,10 @@
 ![image](https://user-images.githubusercontent.com/112066326/194573860-6d13e64f-4ca8-4f25-9726-b3a96aac36b4.png)
 ![image](https://user-images.githubusercontent.com/112066326/194574181-b16ecfcd-0776-493c-b42c-ca4dbf8caa07.png)
 
+## EXPERIMENT 9 OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194574521-5d227279-903a-44ba-a66b-407e701fe3af.png)
+
+
 
 
 
