@@ -25,6 +25,10 @@
 ![image](https://user-images.githubusercontent.com/112066326/194518079-019a0753-c83d-4da7-9cc4-dfbb33cdba8d.png)
 ![image](https://user-images.githubusercontent.com/112066326/194518290-a33f10c0-3289-400e-aab7-8d72eab496b9.png)
 
+## EXPERIMENT 5 OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194518576-b79dcdbb-b1e5-4a4f-8aad-dc36f0e56f95.png)
+
+
 
 
 
