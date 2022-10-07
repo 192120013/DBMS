@@ -11,6 +11,8 @@
 
 
 ## EXPERIMENT 2 OUTPUT
+![image](https://user-images.githubusercontent.com/112066326/194579817-aaf1c7a0-e087-4d7a-b0ac-88b94398c4dc.png)
+
 
 
 ## EXPERIMENT 3,4 OUTPUT
