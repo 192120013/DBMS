@@ -111,6 +111,8 @@
 
 ## EXPERIMENT 24 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066326/194513967-3a1cc213-803a-4e9d-b589-fcf339b64b4b.png)
+![image](https://user-images.githubusercontent.com/112066326/194514270-c1ba40ab-c457-43f1-9fb0-9fa040a8bc09.png)
+
 
 
 
