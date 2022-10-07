@@ -99,6 +99,8 @@
 ## EXPERIMENT 21  OUTPUT
 ![image](https://user-images.githubusercontent.com/112066326/194510428-bcfc4171-53b5-4ebc-832c-e3bbe02ef545.png)
 ![image](https://user-images.githubusercontent.com/112066326/194510885-d08515c1-9a7e-4d9b-b6e1-949cde85ba40.png)
+![image](https://user-images.githubusercontent.com/112066326/194511167-3f778ec5-f1fc-4759-8b0e-82b4c779440e.png)
+
 
 
 
